@@ -1,5 +1,7 @@
 # MudraVision
 
+![MudraVision Demo](assets/mudravision-demo.png)
+
 Real-time **Bharatanatyam mudra recognition** using computer vision and machine learning.
 
 MudraVision uses **MediaPipe** to extract 21 hand landmarks and a **KNN classifier** to recognize six Bharatanatyam mudras from a webcam.
